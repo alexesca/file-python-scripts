@@ -1,0 +1,130 @@
+[{
+    "_id" : "Did not File Claim",
+    "count" : 16
+}
+
+,{
+    "_id" : "No Money",
+    "count" : 14
+}
+
+,{
+    "_id" : "Duplicate Lead",
+    "count" : 5
+}
+
+,{
+    "_id" : "The docusign envelope changed status - Declined",
+    "count" : 8
+}
+
+,{
+    "_id" : "Gave Estimate But Never Called Back",
+    "count" : 54
+}
+
+,{
+    "_id" : "Claim Denied",
+    "count" : 21
+}
+
+,{
+    "_id" : "Used us For Realtor Closing",
+    "count" : 15
+}
+
+,{
+    "_id" : "Not Going to Fix",
+    "count" : 53
+}
+
+,{
+    "_id" : "Freebie",
+    "count" : 10
+}
+
+,{
+    "_id" : "Wrong Sales Rep",
+    "count" : 4
+}
+
+,{
+    "_id" : "Price",
+    "count" : 80
+}
+
+,{
+    "_id" : "Sales Rep",
+    "count" : 66
+}
+
+,{
+    "_id" : "Fixed Themselves",
+    "count" : 6
+}
+
+,{
+    "_id" : "Not the Property Owner",
+    "count" : 2
+}
+
+,{
+    "_id" : "Other",
+    "count" : 60
+}
+
+,{
+    "_id" : null,
+    "count" : 5
+}
+
+,{
+    "_id" : "Customer completed the contract",
+    "count" : 30
+}
+
+,{
+    "_id" : "No Damage",
+    "count" : 93
+}
+
+,{
+    "_id" : "Financing Denied",
+    "count" : 2
+}
+
+,{
+    "_id" : "declined - undefined",
+    "count" : 2
+}
+
+,{
+    "_id" : "voided - Envelope has expired.",
+    "count" : 31
+}
+
+,{
+    "_id" : "Used Another Company",
+    "count" : 68
+}
+
+,{
+    "_id" : "Not Our Scope of Work",
+    "count" : 61
+}
+
+,{
+    "_id" : "Called but never Called Back",
+    "count" : 29
+}
+
+,{
+    "_id" : "Software Testing",
+    "count" : 25
+}
+
+,{
+    "_id" : "Canceled Appointment",
+    "count" : 32
+}
+]

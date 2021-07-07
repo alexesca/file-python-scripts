@@ -1,0 +1,155 @@
+/* 1 */
+{
+    "_id" : "Did not File Claim",
+    "count" : 16
+}
+
+/* 2 */
+{
+    "_id" : "No Money",
+    "count" : 14
+}
+
+/* 3 */
+{
+    "_id" : "Duplicate Lead",
+    "count" : 5
+}
+
+/* 4 */
+{
+    "_id" : "The docusign envelope changed status - Declined",
+    "count" : 8
+}
+
+/* 5 */
+{
+    "_id" : "Gave Estimate But Never Called Back",
+    "count" : 54
+}
+
+/* 6 */
+{
+    "_id" : "Claim Denied",
+    "count" : 21
+}
+
+/* 7 */
+{
+    "_id" : "Used us For Realtor Closing",
+    "count" : 15
+}
+
+/* 8 */
+{
+    "_id" : "Not Going to Fix",
+    "count" : 53
+}
+
+/* 9 */
+{
+    "_id" : "Freebie",
+    "count" : 10
+}
+
+/* 10 */
+{
+    "_id" : "Wrong Sales Rep",
+    "count" : 4
+}
+
+/* 11 */
+{
+    "_id" : "Price",
+    "count" : 80
+}
+
+/* 12 */
+{
+    "_id" : "Sales Rep",
+    "count" : 66
+}
+
+/* 13 */
+{
+    "_id" : "Fixed Themselves",
+    "count" : 6
+}
+
+/* 14 */
+{
+    "_id" : "Not the Property Owner",
+    "count" : 2
+}
+
+/* 15 */
+{
+    "_id" : "Other",
+    "count" : 60
+}
+
+/* 16 */
+{
+    "_id" : null,
+    "count" : 5
+}
+
+/* 17 */
+{
+    "_id" : "Customer completed the contract",
+    "count" : 30
+}
+
+/* 18 */
+{
+    "_id" : "No Damage",
+    "count" : 93
+}
+
+/* 19 */
+{
+    "_id" : "Financing Denied",
+    "count" : 2
+}
+
+/* 20 */
+{
+    "_id" : "declined - undefined",
+    "count" : 2
+}
+
+/* 21 */
+{
+    "_id" : "voided - Envelope has expired.",
+    "count" : 31
+}
+
+/* 22 */
+{
+    "_id" : "Used Another Company",
+    "count" : 68
+}
+
+/* 23 */
+{
+    "_id" : "Not Our Scope of Work",
+    "count" : 61
+}
+
+/* 24 */
+{
+    "_id" : "Called but never Called Back",
+    "count" : 29
+}
+
+/* 25 */
+{
+    "_id" : "Software Testing",
+    "count" : 25
+}
+
+/* 26 */
+{
+    "_id" : "Canceled Appointment",
+    "count" : 32
+}
