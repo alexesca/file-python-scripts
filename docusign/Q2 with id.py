@@ -10,7 +10,9 @@ for aline in ccfile:
     if regex == None:
         if i != 0:
             id = aline.split(",")[8]
+            id = re.findall("([A-Za-z0-9\-]+)", id)
             list.append(id)
+
             output.write(aline)
         i += 1;
 ccfile.close()
