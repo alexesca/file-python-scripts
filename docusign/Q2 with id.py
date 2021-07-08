@@ -2,7 +2,7 @@ import re
 
 
 ccfile = open("../data/Envelope Report with IDs.csv", "r")
-output = open("../data/contracts.txt", "a")
+output = open("../data/sold-contracts-ids.txt", "a")
 i = 0
 list = []
 for aline in ccfile:
@@ -11,9 +11,9 @@ for aline in ccfile:
         if i != 0:
             id = aline.split(",")[8]
             id = re.findall("([A-Za-z0-9\-]+)", id)
-            list.append(id)
-
-            output.write(aline)
+            list.append(id[0])
+            output.write(id[0])
+            output.write('\n')
         i += 1;
 ccfile.close()
 output.close()
